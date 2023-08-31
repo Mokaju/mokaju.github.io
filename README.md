@@ -1,0 +1,2 @@
+# mokaju.github.io
+blogs
